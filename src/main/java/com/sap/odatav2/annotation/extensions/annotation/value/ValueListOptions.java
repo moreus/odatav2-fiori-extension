@@ -1,7 +1,7 @@
 package com.sap.odatav2.annotation.extensions.annotation.value;
 
 public enum ValueListOptions {
-    FIXEDVALUES("fixed-value"),
+    FIXEDVALUES("fixed-values"),
     STANDARD("standard");
 
     private final String value;
